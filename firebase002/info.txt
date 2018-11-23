@@ -1,2 +1,10 @@
 referencias
 https://www.youtube.com/watch?v=-vad5opp77U
+
+jquery cdn
+https://code.jquery.com/
+
+#Descagamos pluggin servidor
+:web server for chrome
+https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb
+
